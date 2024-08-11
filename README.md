@@ -15,6 +15,10 @@ To view and interact with this project, ensure you have **Microsoft Power BI** i
 - DAX Query
 
 ## Dashboard
+![Screenshot 2024-08-11 214254](https://github.com/user-attachments/assets/b5654ea1-5698-4208-be88-240c164d7143)
+![Screenshot 2024-08-11 214341](https://github.com/user-attachments/assets/7df9c390-a944-4f64-accb-2fd76264b5ca)
+
+
 https://app.powerbi.com/links/rZ48RlEOD9?ctid=3cc54fba-ae76-46dc-9e2d-7250294bedc4&pbi_source=linkShare
 
 ### Dashboard Insights
