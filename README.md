@@ -41,6 +41,3 @@ This dashboard helps identify trends in call center performance, agent efficienc
 - Utilized complex parameters for drill-down analysis and filter customization.
 - Mastered data manipulation techniques including connections,calculations, and user-driven parameters for visualization.
 - Employed various visualization types such as bar charts, pie charts, donut charts, scatter plots, and line graphs to represent data effectively.
-
-## Conclusion
-This project demonstrates the power of **Power BI** in analyzing and visualizing call center performance data. The insights generated facilitate informed decision-making, improving both customer satisfaction and operational efficiency.
