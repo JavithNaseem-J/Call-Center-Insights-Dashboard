@@ -15,6 +15,7 @@ To view and interact with this project, ensure you have **Microsoft Power BI** i
 - DAX Query
 
 ## Dashboard
+https://app.powerbi.com/links/rZ48RlEOD9?ctid=3cc54fba-ae76-46dc-9e2d-7250294bedc4&pbi_source=linkShare
 
 ### Dashboard Insights
 The dashboard consists of the following key metrics and insights:
